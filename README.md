@@ -3,7 +3,7 @@ In this project, we use RNNs to generate our own Seinfeld TV scripts. We use par
 
 
 **How to run**
-1. Clone the project: [https://github.com/Shosho93/Generate-TV-Scripts-Pytorch-.git]
+1. Clone the project: [https://github.com/Shaam93/Generate-TV-Scripts-Pytorch-.git]
 2. Open a terminal window and navigate to the project folder.
 3. Open the notebook "dlnd_tv_script_generation" in your Jupyter Notebook to be able to edit by using the command line: `jupyter notebook dlnd_tv_script_generation.ipynb`
 4. The other python scripts are there to provide some tests along the project (you do not need to modify it)
